@@ -8,3 +8,5 @@ cp screenrc.txt ~/.screenrc
 # backup 
 sudo mv /etc/apt/sources.list /etc/apt/sources.list.backup
 sudo cp sources.list.txt /etc/apt/sources.list
+# activate bashrc
+source ~/.bashrc
